@@ -1,4 +1,4 @@
 # apnacollege-demo2
 This is first Github Repository.
 <br>
-Author - Jalal Uddin
+Author - Jalal Uddin (Bhuiyan)
